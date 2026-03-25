@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 7.5,
+  "bs_rating": "High BS",
+  "scored_at": "2026-03-08 10:51:24",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "AI agent engineering is the fastest-growing role in tech. If you can build reliable agent systems, you're in high demand.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Latent Space / CNBC classified as tier_5 (unclassified or low-reliability source, reliability: 20%)",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "high citation density (16.4/1k words)",
+      "score": 2.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "no code, methodology, or reproducibility details provided",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this Latent Space / CNBC piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "moderate hype (5.0/10)",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected; moderate hype language; 6 percentage figures (highly specific)",
+      "score": 4.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Latent Space / CNBC: insufficient history to assess; 1 red flags detected (track record penalty: -1)",
+      "score": 1.0,
+      "weight": 0.1
+    }
+  ]
+}
