@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.1,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-08 10:51:24",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "AI Snake Oil / TechCrunch classified as tier_5 (unclassified or low-reliability source, reliability: 20%); 4 source links cited",
+      "score": 2.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "weak credibility signals (2.0); contains data/benchmark references; references academic work; high citation density (32.8/1k words)",
+      "score": 7.5,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "no code, methodology, or reproducibility details provided",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this AI Snake Oil / TechCrunch piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "moderate hype (5.0/10); 4 references cited",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected; moderate hype language; 5 percentage figures (highly specific)",
+      "score": 4.5,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "AI Snake Oil / TechCrunch: insufficient history to assess; 1 red flags detected (track record penalty: -1); 2 green flags detected (+1.0)",
+      "score": 2.0,
+      "weight": 0.1
+    }
+  ]
+}
