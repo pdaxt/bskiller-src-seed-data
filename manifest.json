@@ -1,1 +1,13 @@
-{"source_name":"Seed Data","repo":"bskiller-src-seed-data","story_count":13,"last_updated":"2026-03-25T07:40:30Z","months":["2026-03"]}
+{
+  "version": "1.0",
+  "source_name": "Seed Data",
+  "repo": "bskiller-src-seed-data",
+  "story_count": 6,
+  "last_updated": "2026-03-25T08:58:36Z",
+  "months": [
+    {
+      "month": "2026-03",
+      "story_count": 6
+    }
+  ]
+}
